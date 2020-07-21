@@ -1,0 +1,14 @@
+C:\Punit\Assignment\AVS\bin\Debug\netcoreapp2.1\AVS.deps.json
+C:\Punit\Assignment\AVS\bin\Debug\netcoreapp2.1\AVS.runtimeconfig.json
+C:\Punit\Assignment\AVS\bin\Debug\netcoreapp2.1\AVS.runtimeconfig.dev.json
+C:\Punit\Assignment\AVS\bin\Debug\netcoreapp2.1\AVS.dll
+C:\Punit\Assignment\AVS\bin\Debug\netcoreapp2.1\AVS.pdb
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.csprojAssemblyReference.cache
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.csproj.CoreCompileInputs.cache
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.RazorAssemblyInfo.cache
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.RazorAssemblyInfo.cs
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.AssemblyInfoInputs.cache
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.AssemblyInfo.cs
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.RazorTargetAssemblyInfo.cache
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.dll
+C:\Punit\Assignment\AVS\obj\Debug\netcoreapp2.1\AVS.pdb
